@@ -22,5 +22,7 @@ Database: MySQL
 
 <h2>🚀 Getting Started</h2>
 
+https://github.com/user-attachments/assets/2a831ec2-621d-4012-bdf8-2f0d17ef804d
+
 
 🌟 If you like this project, give it a star! ⭐
